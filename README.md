@@ -16,7 +16,7 @@ Página web de Laboratoria
 
 Sección 1:
 
-![Sección 1](seccion1.png)
+![Sección 1](assets/images/seccion1.png)
 
 Elementos UX dentro de la pagina
 -Podemos ver la felicidad de la chica que se ha graduado exitosamente y sobre la foto tenemos el texto que nos motiva a ser talentosos para tranformar lo que deseemos en algo bueno.
@@ -31,7 +31,7 @@ Elementos UI
 
 Sección 2:
 
-![Sección 2](seccion2.png)
+![Sección 2](assets/images/seccion2.png)
 
 Elementos UX
 -Nos encontramos con un texto que nos invita a ser parte del mundo tech y a conseguir un trabajo convirtiendonos en desarrolladoras o diseñadoras UX.
@@ -52,8 +52,8 @@ Elementos UI
 
 Sección 3:
 
-![Sección 3](seccion3.png)
-![Sección 4](seccion4.png)
+![Sección 3](assets/images/seccion3.png)
+![Sección 4](assets/images/seccion4.png)
 
 Elementos UX
 -A traves de números, porcentajes, del testimonio del ex-presidente de USA y sus reconocimientos esta sección ofrece confianza, positivismo y a traves de sus "aliados" promete ser una institución con poder, que sobresale y tiene buenas relaciones con empresas reconocidas a nivel mundial.
@@ -66,7 +66,7 @@ Elementos UI
 
 Sección 4:
 
-![Sección 5](seccion5.png)
+![Sección 5](assets/images/seccion5.png)
 
 Elementos UX
 -Vemos la "presencia en medios" para generar confianza.
