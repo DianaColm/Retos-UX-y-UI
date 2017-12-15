@@ -80,3 +80,9 @@ Elementos UI
 -hover en la palabra Blog con la acción de redireccionar al usuario mediante un link.
 -hover en palabras claves para hacer contacto.
 -Color negro de background.
+
+2. IDENTIFICA LOS ELEMENTOS DE NAVEGACIÓN EN LOS SIGUIENTES SITES
+
+A continuación identificare los elementos de navegación de la página principal de Github.
+
+![GitHub](assets/images/githubpage.jpg)
